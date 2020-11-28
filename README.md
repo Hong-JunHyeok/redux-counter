@@ -1,5 +1,13 @@
 # 리덕스 상태관리
 
+## 리액트 + 리덕스 
+
+![image](https://user-images.githubusercontent.com/48292190/100515565-70bf5000-31c0-11eb-961c-e0763676c540.png)
+<br />
+<strong>Special Thanks (
+    <a href="https://github.com/velopert">Velopert</a>
+    )</strong>
+
 # 완성된 모습
 ![image](https://user-images.githubusercontent.com/48292190/100515492-f5f63500-31bf-11eb-80b6-2aa631182585.png)
 
