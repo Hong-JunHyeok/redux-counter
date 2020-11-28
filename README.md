@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/48292190/100515565-70bf5000-31c0-11eb-961c-e0763676c540.png)
 <br />
 <strong>Special Thanks (
-    <a href="https://github.com/velopert">Velopert</a>
+    <a href="https://github.com/velopert" target="_blank">Velopert</a>
     )</strong>
 
 # 완성된 모습
